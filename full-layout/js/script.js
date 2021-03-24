@@ -1,0 +1,1 @@
+window.onscroll = () => window.scrollY >= 100 ? menu.classList.add('filled') : menu.classList.remove('filled')
